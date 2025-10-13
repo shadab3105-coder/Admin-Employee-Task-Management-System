@@ -1,12 +1,13 @@
-# React + Vite
+Admin–Employee Task Management System is a modern web application built with React and Tailwind CSS, featuring an elegant UI and real-time dashboards. It enables Admins to create and assign tasks, while Employees can view and update their assigned work. The system supports role-based login, task tracking, and data persistence through Local Storage — providing a smooth, single-page task management experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
 
-Currently, two official plugins are available:
+✅ Role-based authentication (Admin & Employee) ✅ Create and assign tasks dynamically ✅ Task status tracking (New, Active, Completed) ✅ Real-time dashboards for both Admin and Employee ✅ Data persistence using Local Storage ✅ Reset functionality to start fresh anytime ✅ Responsive UI built with Tailwind CSS ✅ Interactive and user-friendly design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Tech Stack Frontend: React.js Styling: Tailwind CSS State Management: React Context API Storage: Local Storage UI Library: Custom + Tailwind components
 
-## Expanding the ESLint configuration
+👤 Login Credentials (Demo)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Admin Shadab@admin.com Password(123) Employee employee1@example.com Password(123)
+
+Here is the live link for my project:-   https://shadab3105-coder.github.io/Admin-Employee-Task-Management-System/
